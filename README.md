@@ -1,3 +1,7 @@
+THIS PROJECT IS DEPRECATED!
+
+The new version of this project is located at https://github.com/AdamPippert/Orchestrion
+
 Mindspeech - An LLM powered automation orchestrator
 
 To use:
